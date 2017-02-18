@@ -10,7 +10,7 @@ Currently we're in the ED stage (not all function presents, but only a few). Nex
 - Stability Improvement
 - Add load-save function and data management
 - Allow users to set custom simulation rate
-
+- TODO: Use IPC instead of Queue.Queue
 
 
 # Running
@@ -44,6 +44,3 @@ This simulator is licensed under the MITv3 License.
 **Suggest new content** mailto:haoji.xu@outlook.com for more information.
 
 **Open an issue** if encountering bugs, and suggesting performance improvement. Do Not open an issue to suggest new content!
-
-
-
